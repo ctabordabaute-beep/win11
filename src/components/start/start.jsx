@@ -269,7 +269,7 @@ export const StartMenu = () => {
                 click="EXTERNAL"
                 payload="https://i.imgur.com/0KMSDiH.jpeg"
               />
-              <div className="usName">"0verk1ll"</div>
+              <div className="usName">0verk1ll</div>
             </div>
             <div className="relative powerMenu">
               <div className="powerCont" data-vis={start.pwctrl}>
